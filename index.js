@@ -7,7 +7,7 @@ function preserveDecimal(string){
 }
 
 function add(){
-  
+
 }
 function subtract(){}
 function multiple(){}
